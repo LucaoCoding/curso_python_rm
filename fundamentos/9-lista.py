@@ -1,0 +1,2 @@
+filmMatrix = []
+print(type(filmMatrix))
